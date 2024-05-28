@@ -37,7 +37,7 @@
 #define      HW_CLI_LINE_BUF_MAX    64
 
 #define _USE_HW_LOG
-#define      HW_LOG_CH              HW_UART_CH_USB
+#define      HW_LOG_CH              HW_UART_CH_UART
 #define      HW_LOG_BOOT_BUF_MAX    1024
 #define      HW_LOG_LIST_BUF_MAX    1024
 
